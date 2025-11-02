@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+front/build/
+hardhat/artifacts/
+hardhat/cache/
+
+# Env fajlovi sa tajnim podacima
+front/.env
+hardhat/.env
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
